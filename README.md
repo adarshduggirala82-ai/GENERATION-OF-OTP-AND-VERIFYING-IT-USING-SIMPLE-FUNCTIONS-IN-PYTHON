@@ -1,0 +1,2 @@
+# GENERATION-OF-OTP-AND-VERIFYING-IT-USING-SIMPLE-FUNCTIONS-IN-PYTHON
+This project is a simple and secure One-Time Password (OTP) generator and email verification system built using Python. It generates a random alphanumeric OTP using shuffled character lists and sends it to the user’s email through Gmail’s SMTP server. After receiving the OTP, the user must enter it in the terminal to complete verification.
